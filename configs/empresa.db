@@ -1,0 +1,5 @@
+CREATE TABLE funcionarios (
+  id SERIAL PRIMARY KEY,
+  nome VARCHAR(50),
+  cargo VARCHAR(50)
+);
